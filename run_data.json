@@ -1,0 +1,22 @@
+
+[
+    {
+      "date": "2025-04-01",
+      "distance_km": 8,
+      "time_min": 41,
+      "effort": 4
+    },
+    {
+      "date": "2025-04-03",
+      "distance_km": 10,
+      "time_min": 52,
+      "effort": 5
+    },
+    {
+      "date": "2025-04-05",
+      "distance_km": 6,
+      "time_min": 28,
+      "effort": 6
+    }
+  ]
+  
